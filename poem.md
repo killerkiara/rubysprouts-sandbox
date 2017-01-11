@@ -17,15 +17,15 @@
 1. Write a ruby program with exactly the following output (including separate lines and dots):
 
   I want a dyke for president
-  
+
   ...
-  
+
   I want a Black woman for president
-  
+
   I want someone with bad teeth...
-  
+
   Zoe Leonard
-  
+
   1992
 
 2. Put quotes around the poem:
@@ -48,3 +48,5 @@ Zoe Leonard
 7. Tell the user how many lines they added, e.g., "Your new version of the poem added 3 lines"
 
 8. How can we improve our program? Could we name our variables smarter so people know what we are talking about? Could we extract variables where we write in explicit things?
+
+Forked from [Laura Wadden](https://github.com/laurawadden)
